@@ -1,0 +1,3 @@
+keywords,one,two,apple,orange
+phrases,can you do this,can you send,what is your address,show me on camera,don't tell anyone
+urls,google
